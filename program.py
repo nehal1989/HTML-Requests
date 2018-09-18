@@ -2,7 +2,7 @@ import api
 
 
 def main():
-    print('*******SEARCH TALK PYTHON*******')
+    print('* * * * * * * SEARCH TALK PYTHON * * * * * * *')
     search_term = input('Please enter a search term: ')
 
     search_results = api.search_training_site(search_term)
